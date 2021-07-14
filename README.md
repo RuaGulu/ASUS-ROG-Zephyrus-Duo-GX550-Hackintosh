@@ -48,6 +48,8 @@ macOS Catalina & Big Sur Supported
 |     ✔️     | CPU Turbo Boost                                                          |
 |     ✔️     | Trackpad</br>With Polling                                                |
 |     ✔️     | Builtin Secondary 4K Touch Screen</br>With Native HIDPI & APIC Interrupt |
+|     ✔️     | 1080p 300Hz Primary Display (Refreshrate @60Hz)                          |
+|     ❌     | 4K 60Hz Primary Display                                                  |
 |     ❌     | Internal Keyboard                                                        |
 |     ❌     | Screen Brightness Control                                                |
 |     ❌     | 300Hz Screen Refresh Rate                                                |
